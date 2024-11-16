@@ -5,7 +5,7 @@ _TIPS: Translation Invariant Polyphase Sampling is a learnable pooling operator 
 
 ![](images/cls_teaser.png)
 ![](images/cls_tips_archi.png)
-![Shift invariance with TIPS](images/cls_results.png)
+![Shift invariance with TIPS](images/tips_teaser.png)
 
 ## Installation
 Please install the following libraries:
